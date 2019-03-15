@@ -14,6 +14,6 @@ public class Print {
 	}
 	
 	public static void testando() {
-		System.out.print("1234");
+		System.out.print("1234"); 
 	}
 }
