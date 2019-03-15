@@ -11,4 +11,8 @@ public class Print {
 	public static void metodoTeste(){ 
 		System.out.println("cheguei");
 	}
+	
+	public static void testando() {
+		System.out.print("1234");
+	}
 }
